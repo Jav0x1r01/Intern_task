@@ -1,0 +1,45 @@
+### --- Python ---
+# Kesh fayllar
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.tox/
+
+# Virtual muhit (Virtual environments) - buni yuklash xato!
+.venv/
+venv/
+env/
+ENV/
+lib/
+bin/
+Include/
+Lib/
+Scripts/
+share/python-wheels/
+
+### --- Jupyter Notebook ---
+# Vaqtinchalik checkpointlar
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
+
+### --- VS Code ---
+# Shaxsiy sozlamalar
+.vscode/
+# Agar jamoaviy debug sozlamalari kerak bo'lsa, pastdagilarni ochib qo'yish mumkin:
+# !.vscode/launch.json
+# !.vscode/tasks.json
+
+### --- Maxfiylik va Tizim ---
+# Maxfiy kalitlar (Environment variables)
+.env
+.flaskenv
+
+# Log fayllar
+*.log
+
+# Operatsion tizim fayllari
+.DS_Store
+Thumbs.db
