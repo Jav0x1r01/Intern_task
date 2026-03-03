@@ -1,5 +1,3 @@
-# Tavsiya qilinadigan README.md struktura:
-
 # Speech-to-Text Data Preparation - Uzbek Voice
 
 ## Dataset Description
